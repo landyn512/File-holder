@@ -9,8 +9,8 @@ It is generated with [Stainless](https://www.stainless.com/).
 Because it's not published yet, clone the repo and build it:
 
 ```sh
-git clone git@github.com:stainless-sdks/ludscales-typescript.git
-cd ludscales-typescript
+git clone git@github.com:landyn512/File-holder.git
+cd File-holder
 ./scripts/bootstrap
 ./scripts/build
 ```
@@ -40,7 +40,7 @@ For clients with a configuration JSON, it might look something like this:
   "mcpServers": {
     "ludscales_api": {
       "command": "node",
-      "args": ["/path/to/local/ludscales-typescript/packages/mcp-server", "--client=claude", "--tools=all"],
+      "args": ["/path/to/local/File-holder/packages/mcp-server", "--client=claude", "--tools=all"],
       "env": {
         "PETSTORE_API_KEY": "My API Key"
       }

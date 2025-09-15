@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stainless-sdks/ludscales-typescript.git"
+    "url": "git+https://github.com/landyn512/File-holder.git"
   },
-  "homepage": "https://github.com/stainless-sdks/ludscales-typescript/tree/main/packages/mcp-server#readme",
+  "homepage": "https://github.com/landyn512/File-holder/tree/main/packages/mcp-server#readme",
   "server": {
     "type": "node",
     "entry_point": "${__dirname}/index.js",
