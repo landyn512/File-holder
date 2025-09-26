@@ -7,10 +7,9 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "esModuleInterop": true,
-    "baseUrl": "./",
     "paths": {
-      "ludscales/*": ["src/*"],
-      "ludscales": ["src/index.ts"]
+      "ludscales/*": ["./src/*"],
+      "ludscales": ["./src/index.ts"]
     },
     "noEmit": true,
 
