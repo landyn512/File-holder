@@ -1,6 +1,6 @@
 {
   "name": "ludscales",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "The official TypeScript library for the Ludscales API",
   "author": "Ludscales <>",
   "types": "dist/index.d.ts",
